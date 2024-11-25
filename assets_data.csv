@@ -1,0 +1,9 @@
+description,mu,sigma2,class
+euros,-0.02,0.0,trésorerie
+dollars,-0.01,0.05,trésorerie
+métaux précieux,0.0,0.09,métaux
+obligations publiques,0.01,0.01,obligations
+obligations privées,0.02,0.02,obligations
+CAC40,0.03,0.16,actions
+DJIA,0.04,0.20,actions
+Nasdaq,0.05,0.25,actions
